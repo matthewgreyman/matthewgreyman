@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2>Hi, I'm Matthew!</h2>
+Currently I am working on my cybersecurity certification and casually programming in my free time.
 
-<!--
-**matthewgreyman/matthewgreyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Skills</h2>
+<h3>Programming Languages</h2>
+<ul>
+  <li>Python</li>
+  <ul>
+    <li>Certifications:</li>
+    <ul>
+      <li>Company: Codeacademy | Course: Python intermediate course | Hours: 480</li>
+    </ul>
+  </ul>
+  <li>Golang</li>
