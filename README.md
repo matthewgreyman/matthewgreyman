@@ -13,4 +13,5 @@ Currently I am working on my cybersecurity certification and casually programmin
   </ul>
 <h2>A few statistics about me:</h2>
 <h4>Leetcode:</h4>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/matthewgreyman?theme=dark&font=Bebas%20Neue)
